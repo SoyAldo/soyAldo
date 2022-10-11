@@ -12,5 +12,5 @@ If you wish to contact me, you can do so by either <br/>
 * E-Mail | pereyraosvaldo@live.com.ar <br/>
 
 ## Statistics:
-<img align="left" height="190px" weight="40%" alt="SoyAldo's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=SoyAldo&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true"/> 
-<img align="left" height="190px" weight="40%" alt="SoyAldo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyAldo&theme=dark&hide_border=true&layout=default" />
+<img align="left" height="170px" alt="SoyAldo's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=SoyAldo&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true"/> 
+<img align="left" height="170px" alt="SoyAldo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoyAldo&theme=dark&hide_border=true&layout=default" />
