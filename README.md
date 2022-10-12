@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 ## Contact Me:
 If you wish to contact me, you can do so by either <br/>
 * Discord | SoyAldo#1999 <br/>
-* E-Mail | pereyraosvaldo@live.com.ar <br/>
+* E-Mail | soyaldo.me@gmail.com <br/>
 
 ## Statistics:
 <img align="left" height="170px" alt="SoyAldo's Github Statistics" src="https://github-readme-stats.vercel.app/api?username=SoyAldo&show_icons=true&hide_border=true&theme=dark&icon_color=00f6ff&count_private=true&include_all_commits=true"/> 
